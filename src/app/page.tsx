@@ -11,7 +11,7 @@ const page = () => {
   return(
     <div>
         <HeroSection/>
-        <Spotlight/>
+        
         <FeaturedCourses/>
         <WhyChooseUs/>
         <FeaturedWabinars/>

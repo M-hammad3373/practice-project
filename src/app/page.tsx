@@ -10,7 +10,6 @@ const page = () => {
   return(
     <div>
         <HeroSection/>
-        
         <FeaturedCourses/>
         <WhyChooseUs/>
         <FeaturedWabinars/>

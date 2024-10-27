@@ -1,5 +1,4 @@
 import HeroSection from '@/components/HeroSection';
-import { Spotlight } from '@/components/ui/Spotlight';
 import FeaturedCourses from '@/components/FeaturedCourses';
 import WhyChooseUs from '@/components/WhyChooseUs';
 import FeaturedWabinars from '@/components/Wabinars';

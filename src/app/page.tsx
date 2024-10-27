@@ -14,7 +14,7 @@ const page = () => {
         <WhyChooseUs/>
         <FeaturedWabinars/>
         <TestiMonialCard/>
-        <Footer/>
+        
 
     </div>
   )
